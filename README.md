@@ -1,4 +1,4 @@
 # CL-Spotify
-clone of spo.
+clone of spotify.
 <br>
 author- Raju Sewda
